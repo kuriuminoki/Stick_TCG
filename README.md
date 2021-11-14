@@ -48,18 +48,27 @@ deck/ にデッキのデータ（テキストファイル）
 例：
 ---------
 no1	←カードの名前
+
 3	←その枚数
+
 no35
+
 3
+
 no12
+
 2
+
 .
+
 .
+
 .
 ----------
 
 
 TCG Simulator (ver1.0)
+
 (2021/7/29 作成) by のけもの
 
 --
@@ -67,6 +76,7 @@ TCG Simulator (ver1.0)
 
 --
 著作者：のけもの
+
 twitter：@NoKmono23（https://twitter.com/NoKmono23）
 
 --
