@@ -72,7 +72,7 @@ TCG Simulator (ver1.0)
 --
 著作者：のけもの
 
-twitter：@NoKmono23（https://twitter.com/NoKmono23）
+twitter：@NoKmono23（ https://twitter.com/NoKmono23 ）
 
 --
 更新履歴
